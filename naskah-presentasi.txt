@@ -1,0 +1,46 @@
+NASKAH PRESENTASI 3–5 MENIT
+================================
+
+Assalamualaikum warahmatullahi wabarakatuh.
+
+Saya membuat landing page informasi Universitas Ichsan Satya menggunakan HTML dan CSS,
+dengan sedikit JavaScript untuk menu mobile.
+
+Tujuan website ini adalah menjadi halaman awal yang membantu calon mahasiswa dan orang tua
+mengenal kampus melalui informasi yang singkat dan mudah dipahami.
+
+Pada bagian pertama terdapat navbar dengan menu Beranda, Program Studi, Tentang,
+Fasilitas, dan Kontak. Saya menggunakan position sticky agar navbar tetap terlihat
+ketika halaman di-scroll.
+
+Bagian hero menggunakan foto gedung Universitas Ichsan Satya yang diberikan sebagai
+background. Saya menambahkan overlay agar teks tetap mudah dibaca. Di bagian ini juga
+terdapat tombol untuk menuju program studi dan informasi kampus.
+
+Berikutnya ada informasi singkat mengenai tiga fakultas UIS, lokasi, perpustakaan,
+dan kontak.
+
+Pada bagian Program Studi saya menampilkan tiga program yang ditemukan dari sumber resmi,
+yaitu D3 Kebidanan, S1 Keperawatan, dan Profesi Ners. Setiap kartu memiliki efek hover
+agar tampilan lebih interaktif.
+
+Bagian Tentang Kampus berisi gambaran singkat UIS dan visi kampus. Foto gedung digunakan
+kembali sebagai gambar pendukung.
+
+Bagian Fasilitas dan Layanan menampilkan Perpustakaan, Lab UIS, dan E-Jurnal.
+Untuk informasi yang lebih lengkap, setiap bagian diarahkan ke kanal resmi UIS.
+
+Kemudian ada bagian Testimoni. Karena belum mendapatkan testimoni asli, saya memberikan
+keterangan bahwa isi tersebut hanya contoh dan harus diganti setelah diverifikasi.
+
+Terakhir ada bagian Kontak yang berisi alamat, telepon, WhatsApp, dan email.
+Saya juga menambahkan tombol WhatsApp melayang sebagai bonus.
+
+Untuk teknis, website menggunakan HTML semantik, CSS terpisah, Flexbox dan Grid,
+serta media query agar tampilannya responsif di laptop maupun HP.
+
+Kesulitan utama adalah menyesuaikan banyak informasi agar tetap rapi pada layar kecil.
+Solusinya adalah menggunakan layout Grid, ukuran teks responsif, dan menu navigasi
+yang berubah menjadi tombol pada layar HP.
+
+Demikian presentasi saya. Terima kasih.
